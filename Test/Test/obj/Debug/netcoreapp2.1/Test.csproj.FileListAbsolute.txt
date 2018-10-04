@@ -1,0 +1,14 @@
+D:\VisualStudio\Docker\test\Test\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+D:\VisualStudio\Docker\test\Test\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+D:\VisualStudio\Docker\test\Test\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+D:\VisualStudio\Docker\test\Test\Test\bin\Debug\netcoreapp2.1\Test.dll
+D:\VisualStudio\Docker\test\Test\Test\bin\Debug\netcoreapp2.1\Test.pdb
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.RazorAssemblyInfo.cache
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.RazorAssemblyInfo.cs
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.RazorTargetAssemblyInfo.cache
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.dll
+D:\VisualStudio\Docker\test\Test\Test\obj\Debug\netcoreapp2.1\Test.pdb
